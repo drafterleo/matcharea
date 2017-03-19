@@ -1,5 +1,5 @@
 ## PsyMatchArea (Qt 4.8)
-Train visual attention. The user needs to find the central "hieroglyph" among the figures around.
+Train visual attention. The user needs to find the central "hieroglyph" among the around figures.
 
 [Overview](https://habrahabr.ru/post/277049/).
 
