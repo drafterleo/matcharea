@@ -5,6 +5,8 @@ Available figure types:
 
 ![pic0](https://habrastorage.org/files/ad2/c88/e28/ad2c88e2802644a0b388fe48b1ae6b76.png)
 
+### Illustrations
+
 [Overview](https://habrahabr.ru/post/277049/)
 
 ![pic0](https://habrastorage.org/files/93c/165/42e/93c16542e0904cf4a444a07a6b93c9d3.gif)
